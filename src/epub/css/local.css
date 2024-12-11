@@ -23,5 +23,15 @@ footer{
 
 section[epub|type~="dedication"] header{
 	font-variant: small-caps;
+	line-height: 2;
+	margin-top: 3em;
 	text-align: center;
+}
+
+section[epub|type~="dedication"] > header + *{
+	margin-top: initial;
+}
+
+section[epub|type~="dedication"] > header > p > b{
+	font-size: larger;
 }
