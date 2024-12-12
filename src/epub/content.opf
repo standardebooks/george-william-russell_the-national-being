@@ -2,8 +2,8 @@
 <package xmlns="http://www.idpf.org/2007/opf" dir="ltr" prefix="se: https://standardebooks.org/vocab/1.0" unique-identifier="uid" version="3.0" xml:lang="en-US">
 	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
 		<dc:identifier id="uid">url:https://standardebooks.org/ebooks/george-william-russell/the-national-being</dc:identifier>
-		<dc:date>1900-01-01T00:00:00Z</dc:date>
-		<meta property="dcterms:modified">1900-01-01T00:00:00Z</meta>
+		<dc:date>2024-12-12T22:03:00Z</dc:date>
+		<meta property="dcterms:modified">2024-12-12T22:03:00Z</meta>
 		<dc:rights>The source text and artwork in this ebook are believed to be in the United States public domain; that is, they are believed to be free of copyright restrictions in the United States. They may still be copyrighted in other countries, so users located outside of the United States must check their local laws before using this ebook. The creators of, and contributors to, this ebook dedicate their contributions to the worldwide public domain via the terms in the [CC0 1.0 Universal Public Domain Dedication](https://creativecommons.org/publicdomain/zero/1.0/).</dc:rights>
 		<dc:publisher id="publisher">Standard Ebooks</dc:publisher>
 		<meta property="file-as" refines="#publisher">Standard Ebooks</meta>
@@ -47,14 +47,14 @@
 		<meta property="se:subject">Nonfiction</meta>
 		<dc:description id="description">An Irish writer presents his vision of an independent Irish nation.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
-			&lt;p&gt;&lt;a href="https://standardebooks.org/ebooks/george-william-russell"&gt;George William Russell&lt;/a&gt;, also known by the pseudonym Æ, was a prominent Irish polymath who wrote on many topics related to Irish independence. In the &lt;i&gt;The National Being&lt;/i&gt; Russell outlines a vision of how the an independent Ireland could create a unifying national spirit. This spirit would respect the rural roots of Ireland and draw heavily on ideas from the cooperative movement. Russell is very aware of the difficulties in solving the multifaceted problem of creating a nation, and he describes in detail many of the pitfalls that could occur: from a centralized representative democracy failing to respect individual rights to a press that would rather stir resentments than properly inform the public.&lt;/p&gt;
-			&lt;p&gt;Russell reiterates that such a project cannot be achieved by hate, and that the only way forward to a caring nation is for the citizens to be caring. For this the economic system based on individualism and selfishness needs to be rethought. He emphasizes the need for Ireland to choose its own destiny and to not simply copy or reject outright the examples of other countries.&lt;/p&gt;
+			&lt;p&gt;&lt;a href="https://standardebooks.org/ebooks/george-william-russell"&gt;George William Russell&lt;/a&gt;, also known by the pseudonym Æ, was a prominent Irish polymath who wrote on many topics related to Irish independence. In the &lt;i&gt;The National Being&lt;/i&gt; Russell outlines a vision of how the an independent Ireland could create a unifying national spirit. This spirit would respect the rural roots of Ireland and draw heavily on ideas from the cooperative movement. Russell is very aware of the difficulties in solving the multifaceted problem of creating a nation, and he describes in detail many of the pitfalls that could occur: from a centralized representative democracy failing to respect individual rights, to a press that would rather stir resentments than properly inform the public.&lt;/p&gt;
+			&lt;p&gt;Russell reiterates that such a project cannot be achieved by hate, and that the only way forward towards nationhood is for the would-be nation’s citizens to be caring. To accomplish this, the economic system based on individualism and selfishness needs to be rethought. He emphasizes the need for Ireland to choose its own destiny and to not simply copy or reject outright the examples of other countries.&lt;/p&gt;
 		</meta>
 		<dc:language>en-GB</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/8104</dc:source>
 		<dc:source>https://archive.org/details/natlbeingsometho00russiala</dc:source>
-		<meta property="se:word-count">WORD_COUNT</meta>
-		<meta property="se:reading-ease.flesch">READING_EASE</meta>
+		<meta property="se:word-count">41991</meta>
+		<meta property="se:reading-ease.flesch">43.97</meta>
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/george-william-russell_the-national-being</meta>
 		<dc:creator id="author">George William Russell</dc:creator>
 		<meta property="file-as" refines="#author">Russell, George William</meta>
@@ -78,6 +78,10 @@
 		<meta property="role" refines="#producer-1" scheme="marc:relators">mrk</meta>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">pfr</meta>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">tyg</meta>
+		<dc:contributor id="producer-2">Vince Rice</dc:contributor>
+		<meta property="file-as" refines="#producer-2">Rice, Vince</meta>
+		<meta property="se:url.homepage" refines="#producer-2">https://www.brokenandsaved.com</meta>
+		<meta property="role" refines="#producer-2" scheme="marc:relators">pfr</meta>
 	</metadata>
 	<manifest>
 		<item href="css/core.css" id="core.css" media-type="text/css"/>
