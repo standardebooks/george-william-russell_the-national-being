@@ -54,7 +54,7 @@
 		<dc:language>en-GB</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/8104</dc:source>
 		<dc:source>https://archive.org/details/natlbeingsometho00russiala</dc:source>
-		<meta property="se:word-count">41991</meta>
+		<meta property="se:word-count">41949</meta>
 		<meta property="se:reading-ease.flesch">43.97</meta>
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/george-william-russell_the-national-being</meta>
 		<dc:creator id="author">George William Russell</dc:creator>
