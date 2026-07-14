@@ -36,7 +36,7 @@
 		<meta property="title-type" refines="#subtitle">subtitle</meta>
 		<dc:title id="fulltitle">The National Being: Some Thoughts on an Irish Polity</dc:title>
 		<meta property="file-as" refines="#fulltitle">National Being, The</meta>
-		<meta property="title-type" refines="#fulltitle">extended</meta>
+		<meta property="title-type" refines="#fulltitle">expanded</meta>
 		<dc:subject id="subject-1">Cooperation</dc:subject>
 		<dc:subject id="subject-2">Ireland -- Economic conditions</dc:subject>
 		<dc:subject id="subject-3">Ireland -- Politics and government</dc:subject>
